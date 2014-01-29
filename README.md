@@ -1,1 +1,1 @@
-Some data visualizations using R.
+Data visualizations and more !
